@@ -44,3 +44,8 @@ let cars = {
 };
 
 console.log(cars);
+
+let a1 = 60;
+let b1 = 70;
+
+console.log("a1 + b1 = ", a1+b1);
