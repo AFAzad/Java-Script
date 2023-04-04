@@ -49,3 +49,8 @@ let a1 = 60;
 let b1 = 70;
 
 console.log("a1 + b1 = ", a1+b1);
+
+let item1 = 50;
+let item2 = 51;
+console.log(item1==item2);
+console.log(item1!=item2);
