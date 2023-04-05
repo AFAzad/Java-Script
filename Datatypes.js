@@ -54,3 +54,18 @@ let item1 = 50;
 let item2 = 51;
 console.log(item1==item2);
 console.log(item1!=item2);
+/* 
+Condistional Expression 
+if 
+else if 
+if else if statement
+*/
+
+alert("type your age");
+let p = prompt("Your age");
+if(p >= 17){
+    alert("your are eligible");
+}else{
+    alert("you are under age");
+}
+document.write("Done")
